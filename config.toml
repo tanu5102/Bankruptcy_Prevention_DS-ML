@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#00FF00"  # Change to any color (Green)
+backgroundColor = "#000000"  # Black background
+secondaryBackgroundColor = "#1E1E1E"  # Dark gray sidebar
+textColor = "#FFFFFF"  # White text
+font = "sans serif"
